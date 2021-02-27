@@ -3,4 +3,4 @@
 
 需要安装selenium库和Chromedriver，并配置环境变量。
 
-添加到Windows任务计划程序即可自动健康打卡
+添加到Windows任务计划程序即可实现自动健康打卡
